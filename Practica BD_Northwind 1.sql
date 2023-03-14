@@ -17,3 +17,4 @@ move 'Northwind_log' to 'D:\Base de datos\Archivos BD\LDF\northwind.ldf'
 --respaldo bd Northwind con nueva ubicacion
 backup database Northwind to disk =
 'D:\Base de datos\Respaldos\NorthwindRespaldo.bak'
+-- uwu
